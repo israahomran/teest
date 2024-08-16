@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    width: 50030px;
+}
+
+.b{
+   position:fixed;
+            background-color: yellow; /* لون الخلفية */
+         
+}
